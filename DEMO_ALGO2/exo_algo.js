@@ -1,6 +1,5 @@
 // demo
 
-
 function trouveLePlusGrand(nb1, nb2, nb3){
     if (nb1 > nb2){
        if (nb1 > nb3){
